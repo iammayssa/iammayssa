@@ -10,7 +10,7 @@ link for stats : https://github-readme-stats.vercel.app/api?username=iammayssa&&
 
 -  🔭 I’m currently working on a **Smart Robot dog project**
 - 🌱 I’m currently learning **Machine Learning and Data analysis**
-- 🤔 I’m looking for help with my speech synthesis project
+- 🤔 I’m looking for help with **my speech synthesis project**
 - 📫 How to reach me: mayssa.rekik@ieee.org or [LinkedIn](https://www.linkedin.com/in/mayssa-r-933a3bb6/) or [Facebook](https://www.facebook.com/rekik.mayssa.7)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: If you recognize the character in my hoodie, you rock! ✨
