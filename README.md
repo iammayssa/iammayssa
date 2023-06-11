@@ -10,7 +10,7 @@ link for stats : https://github-readme-stats.vercel.app/api?username=iammayssa&&
 
 -  🔭 I’m currently working on **signal processing with machine learning**
 - 🤔 I’m looking for help with **my speech synthesis project**
-- 📫 How to reach me: rekikmayssa33@gmail.com or mayssa.rekik@enstab.ucar.tn or [LinkedIn](https://www.linkedin.com/in/mayssa-r-933a3bb6/) or [Facebook](https://www.facebook.com/rekik.mayssa.7)
+- 📫 How to reach me: mayssarekik9@gmail.com or mayssa.rekik@unb.ca or [LinkedIn](https://www.linkedin.com/in/mayssa-r-933a3bb6/) or [Facebook](https://www.facebook.com/rekik.mayssa.7)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: If you recognize the character in my hoodie, you rock! ✨
 
